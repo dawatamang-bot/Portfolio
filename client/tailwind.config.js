@@ -10,6 +10,12 @@ module.exports = {
         "secondary":"#F97316",
         "tertiary":"#54D6BB",      }
     },
+    screens: {
+      lg : {max : '1023px'},
+
+      sm : { max: '1000px'},
+
+    },
   },
   plugins: [],
 }
