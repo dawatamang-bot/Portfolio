@@ -2,7 +2,7 @@ import React from "react";
 import Title from "../../components/Title";
 import { experiences } from "../../resources/experience";
 
-function Experiences() {
+const Experiences = () => {
   const [selectedItemIndex, setSelectedItemIndex] = React.useState(0);
   return (
     <div>
@@ -46,6 +46,6 @@ function Experiences() {
       </div>
     </div>
   );
-}
+};
 
 export default Experiences;
