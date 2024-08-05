@@ -25,3 +25,157 @@
   background: #0A192F;
   border-radius: 10px;
 }
+
+.p{
+  animation: p is infinite; 
+}
+
+@keyframes p{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.o{
+  animation: o is infinite; 
+}
+
+@keyframes o{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.r{
+  animation: r is infinite; 
+}
+
+@keyframes r{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.t{
+  animation: t is infinite; 
+}
+
+@keyframes t{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.f{
+  animation: f is infinite; 
+}
+
+@keyframes f{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.o{
+  animation: o is infinite; 
+}
+
+@keyframes o{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.l{
+  animation: l is infinite; 
+}
+
+@keyframes l{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.i{
+  animation: i is infinite; 
+}
+
+@keyframes i{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
+.a{
+  animation: a is infinite; 
+}
+
+@keyframes a{
+  0%{
+    opacity: 1;
+  }
+
+  50%{
+    opacity: 0.5;
+  }
+   
+  100%{
+    opacity: 0.5;
+  }
+}
